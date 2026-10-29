@@ -1,0 +1,43 @@
+# Build outputs & caches across all directories
+.gradle/
+**/.gradle/
+build/
+**/build/
+.dart_tool/
+**/.dart_tool/
+.flutter-plugins-dependencies
+**/.flutter-plugins-dependencies
+.pub-cache/
+**/.pub-cache/
+.pub/
+**/.pub/
+
+# Android build artifacts
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IDE & Editor files
+.idea/
+**/.idea/
+*.iml
+**/*.iml
+.vscode/
+**/.vscode/
+
+# Python cache & logs
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.log
+*.duckdb
+*.duckdb.wal
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keep pre-built root APKs so you can clone/download and run immediately
+!/ShubDeep-Calculator-Pro.apk
+!/ShubDeep-Calsi-Vault.apk

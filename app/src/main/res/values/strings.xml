@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="nav_calculator">Calculator</string>
+    <string name="nav_converter">Converter</string>
+    <string name="nav_currency">Currency</string>
+    <string name="nav_history">History</string>
+    <string name="nav_more">More</string>
+    <string name="settings">Settings</string>
+</resources>
